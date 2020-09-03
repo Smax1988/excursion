@@ -13,4 +13,21 @@ h1 {
 a {
     color: aquamarine;
     font-size: 16px;
+    display: block;
+    margin-bottom: 30px;  
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    display: inline-block;
+    justify-content: center;
 }
